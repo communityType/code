@@ -1,6 +1,6 @@
 # Classifying community structure types in networks
 
-This code accompanies the paper <i> "Non-assortative relationships between groups of nodes are common in complex networks"</i>, by Cathy Liu, Tristram J. Alexander, and Eduardo G. Altmann (PNAS Nexus, 2023). 
+This code accompanies the paper <i> "Non-assortative relationships between groups of nodes are common in complex networks"</i>, by Cathy Liu, [Tristram J. Alexander](https://www.sydney.edu.au/science/about/our-people/academic-staff/tristram-alexander.html), and [Eduardo G. Altmann](https://www.maths.usyd.edu.au/u/ega/), [PNAS Nexus (2023)](https://doi.org/10.1093/pnasnexus/pgad364). 
 
 The analysis is performed in two steps:
 
